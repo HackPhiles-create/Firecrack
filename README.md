@@ -8,7 +8,7 @@ $pkg install python2
 
 $pkg install git
 
-$git clone: https://github.com/HackPhiles-create/Firecrack.git
+$git clone:https://github.com/Ranginang67/Firecrack
 
 $ls
 
